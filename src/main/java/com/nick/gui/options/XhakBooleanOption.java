@@ -1,6 +1,8 @@
-package com.nick.gui;
+package com.nick.gui.options;
 
 import com.mojang.blaze3d.platform.InputConstants;
+import com.nick.gui.XhakGui;
+import com.nick.gui.XhakOption;
 
 import net.minecraft.client.gui.Font;
 import net.minecraft.client.gui.GuiGraphicsExtractor;

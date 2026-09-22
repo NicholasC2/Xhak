@@ -12,9 +12,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.mojang.blaze3d.platform.InputConstants;
-import com.nick.gui.XhakBooleanOption;
 import com.nick.gui.XhakGui;
 import com.nick.gui.XhakScreen;
+import com.nick.gui.options.XhakBooleanOption;
 import com.nick.gui.XhakMenu;
 import com.nick.gui.XhakOption;
 

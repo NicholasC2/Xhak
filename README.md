@@ -1,9 +1,9 @@
 # Xhak
 
-## Setup
+Currently there is no actual functionality, however the menus are pretty close to being finished.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Planned Modules
+ - Xray and ESP
+ - Movement(Flight, High Jump, Speed)
+ - Combat(Kill Aura, Bow Aimbot)
+ - General Stuff(Reach, etc)
