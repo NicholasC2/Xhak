@@ -13,7 +13,6 @@ import org.slf4j.LoggerFactory;
 
 import com.mojang.blaze3d.platform.InputConstants;
 import com.nick.gui.XhakGui;
-import com.nick.gui.XhakScreen;
 import com.nick.gui.options.XhakBooleanOption;
 import com.nick.gui.XhakMenu;
 import com.nick.gui.XhakOption;
@@ -44,7 +43,7 @@ public class Xhak implements ClientModInitializer {
 
 		ClientTickEvents.END_CLIENT_TICK.register(client -> {
 			while (menuKey.consumeClick()) {
-				client.setScreenAndShow(new XhakScreen(getGui()));
+				
 			}
 		});
 
